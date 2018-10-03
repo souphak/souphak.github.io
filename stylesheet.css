@@ -1,7 +1,6 @@
 body {
 	font: 16px Sans-serif, Serif;
-	color: white;
-	background: url(background.jpg);
+	background-color: #222233;
 }
 
 #video {
@@ -22,7 +21,6 @@ body {
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
-	background-color: darkgray;
 }
 
 #content-contact {
