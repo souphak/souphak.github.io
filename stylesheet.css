@@ -1,12 +1,12 @@
 body {
 	font: 16px Sans-serif, Serif;
 	background-color: #222233;
+	color: #A8D5FF;
 }
 
 #video {
 	display: block;
 	align: center;
-	background-color: darkgray;
 }
 
 #button {
