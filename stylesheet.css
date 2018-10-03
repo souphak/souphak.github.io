@@ -28,6 +28,7 @@ body {
 	font-weight: bold;
 	letter-spacing: -2px;
 	border-bottom: 3px solid #999;
+	color: white;
 }
 
 #content-summarycontent {
@@ -44,6 +45,7 @@ body {
 
 .date {
 	float: right;
+	color: white;
 }
 
 h3 {
