@@ -1,3 +1,56 @@
-p {
-  color: red;
- }
+body {
+	font: 16px Sans-serif, Serif;
+	background: url(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwii2KGv4urdAhWB5YMKHWFZC30QjRx6BAgBEAU&url=https%3A%2F%2Fwww.solidbackgrounds.com%2F2560x1440-gray-solid-color-background.html&psig=AOvVaw34m2M-W0tWmZE6Mrme20Qt&ust=1538673157183449);
+}
+
+#pic {
+	float: right;
+}
+
+#button {
+	margin-left: 40%;
+	margin-right: 40%;
+	background-color: #215062;
+
+	border-radius: 20px;
+	height: 100px;
+}
+
+#container {
+	width: 800px;
+	margin: 40px auto 60px;
+}
+
+#content-contact {
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+	font-size: 42px;
+	font-weight: bold;
+	letter-spacing: -2px;
+	border-bottom: 1px solid #999;
+}
+
+#content-summarycontent {
+	margin: 0 0 16px 0;
+	padding: 0 0 32px 0;
+
+	font-style: italic;
+	font-size: 20px;
+}
+
+#content-professionalheader {
+	font-size: 26px;
+}
+
+.date {
+	float: right;
+}
+
+h3 {
+	border-bottom: 2px solid #999;
+}
+
+h4{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
