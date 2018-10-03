@@ -5,7 +5,8 @@ body {
 }
 
 #video {
-	float: right;
+	align: center;
+	background-color: darkgray;
 }
 
 #button {
