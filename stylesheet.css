@@ -58,3 +58,35 @@ h4{
 	margin-bottom: 0px;
 	font-style: italic;
 }
+
+header {
+  top: 0;
+  left: 0;
+  width: 100%;
+  position: fixed;
+  z-index: 20;
+}
+
+nav {
+  border-bottom: 1px solid #002542;
+  background-color: #002542;
+}
+
+nav ul {
+  padding: 10px 0;
+  text-align: center;
+}
+
+nav li {
+  margin: 0 40px;
+  display: inline-block;
+}
+
+nav a {
+  color: white;
+  font-size: 16px;
+}
+
+nav a:hover {
+  color: #fb8e20;
+}
